@@ -8,7 +8,7 @@ The files are public domain - unless there is a different note (by their respect
 Screenshots
 ==========
 
-[FcmAppContext](https://github.com/afarber/csharp-questions/tree/master/MatchStringsInTextFile):
+[MatchStringsInTextFile](https://github.com/afarber/csharp-questions/tree/master/MatchStringsInTextFile):
 
 ![screenshot](https://raw.github.com/afarber/csharp-questions/master/MatchStringsInTextFile/screenshot.png)
 
